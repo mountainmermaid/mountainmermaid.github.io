@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#slider-1 H2 {
+  text-align: left;
+  color: #ffffff;
+}
+#slider-1 P {
+  color: #f2f2f2;
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-1 .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
